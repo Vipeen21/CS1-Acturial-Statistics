@@ -17,9 +17,6 @@ Whether you are a student member of the *Institute of Actuaries*, a research sch
 
 This project is built systematically to map theoretical statistical frameworks directly to computational scripts. Below is the current functional architecture of the workspace:
 
-## 🚀 Repository Architecture
-
-This project is built systematically to map theoretical statistical frameworks directly to computational scripts:
 
 ```text
 📦 Actuarial-Statistics-R
